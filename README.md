@@ -4,12 +4,21 @@ tutorial URL: https://www.youtube.com/watch?v=p8FSaMlDbVM&list=PLytjVIyAOStrTBXB
 
 puzzle sprites source: https://www.kenney.nl/assets/puzzle-pack
 
+
+
 ###run instructions:
 
 start new 2D project in Unity Project editor, overwrite directories with the
 ones in this repository, build for Android
 
 ###changelog
+
+v 0.1.1: features: made larger png to use for icon; moved boundaries inward;
+         changed font
+
+         issues (resolved): learned the hard way to never delete the .meta for          Unity-generated sprites, spent way too long resizing both the
+         borders, which shrunk down to nothing, and then resizing the
+         collision detection, which blew up
 
 v 0.0.1: completed tutorial.
 
