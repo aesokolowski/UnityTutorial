@@ -15,12 +15,15 @@ ones in this repository, build for Android
 
 v 0.1.1: 
          features: made larger png to use for icon; moved boundaries inward;
-         changed font
+         changed font; changed aspect ratio to 16:9 landscape to match my
+         phone (Samsung Galaxy S7)
 
          issues (resolved): learned the hard way to never delete the .meta for
          Unity-generated sprites, spent way too long resizing both the
          borders, which shrunk down to nothing, and then resizing the
          collision detection, which blew up
+
+         future?: save high score; sound fx, music, options menu
 
 v 0.0.1: 
          completed tutorial.
