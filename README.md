@@ -13,14 +13,17 @@ ones in this repository, build for Android
 
 ###changelog
 
-v 0.1.1: features: made larger png to use for icon; moved boundaries inward;
+v 0.1.1: 
+         features: made larger png to use for icon; moved boundaries inward;
          changed font
 
-         issues (resolved): learned the hard way to never delete the .meta for          Unity-generated sprites, spent way too long resizing both the
+         issues (resolved): learned the hard way to never delete the .meta for
+         Unity-generated sprites, spent way too long resizing both the
          borders, which shrunk down to nothing, and then resizing the
          collision detection, which blew up
 
-v 0.0.1: completed tutorial.
+v 0.0.1: 
+         completed tutorial.
 
          features: ball bounces against wall, against paddle; game resets when
          ball leaves camera through bottom of screen; counter keeps track
